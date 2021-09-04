@@ -24,7 +24,7 @@ knowledge and expertise.
 
 **Languages and Tools**:
  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/flutter.svg" alt="Flutter" width="40" height="40"/> 
- <img src="https://www.flaticon.com/free-icon/android_888839?term=android&page=1&position=3&page=1&position=3&related_id=888839&origin=search" alt="android" width="40" height="40"/>
+ <img src="https://www.flaticon.com/authors/pixel-perfect" alt="android" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/androidstudio.svg" alt="mysql" width="40" height="40"/> 
