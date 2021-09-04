@@ -37,6 +37,8 @@ knowledge and expertise.
 <img  alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Daniyal-Qureshi)](https://github.com/ryo-ma/github-profile-trophy)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniyal-Qureshi)](https://github.com/daniyal-qureshi/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniyal-Qureshi&show_icons=true&theme=dark)  
