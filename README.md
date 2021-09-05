@@ -24,7 +24,7 @@ knowledge and expertise.
 
 **Languages and Tools**:
 <br>
- <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/flutter.svg" alt="Flutter" width="40" height="40"/> 
+ <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/flutter.svg" alt="Flutter" width="40" height="40" style="color:yellow"/> 
  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/android.svg" alt="android" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
