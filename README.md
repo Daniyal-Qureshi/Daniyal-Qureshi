@@ -28,8 +28,8 @@ knowledge and expertise.
  <img src="https://cdn1.iconfinder.com/data/icons/smallicons-logotypes/32/android-512.png" alt="android" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
- <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/androidstudio.svg" alt="mysql" width="40" height="40"/> 
- <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/firebase.svg" alt="mongodb" width="40" height="40"/> 
+ <img src="https://icon-library.com/images/android-studio-icon/android-studio-icon-8.jpg" alt="mysql" width="40" height="40"/> 
+ <img src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" alt="mongodb" width="40" height="40"/> 
 <br/>
 <img  alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img  alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
