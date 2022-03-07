@@ -9,8 +9,8 @@ knowledge and expertise.
 
 
 
-- 🔭 I’m currently working on  **Flutter Mobile and Web Application Development**. 
-- 👯 I’m looking to collaborate on **Flutter Apps**  
+- 🔭 I’m currently working on  **MERN stack ,Flutter and Dapp**. 
+- 👯 I’m looking to collaborate on **MERN, Dapp**  
 - 💬 Ask me about **Mobile Application Development**.  
 - 📫 How to reach me **daniyalqureshi.cs@gmail.com**
 
