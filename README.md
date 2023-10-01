@@ -4,7 +4,7 @@
 <h3 align="center"> I am a Tech Enchanter, Envisioning Magic with Ruby, React, and Mastery </h3>
 
 
-- 🔭 I’m currently working on  **Ruby on Rails MERN stack ,Flutter and Dapp**. 
+- 🔭 I’m currently working on  **Ruby on Rails, MERN stack ,Flutter and Dapp**. 
 - 👯 I’m looking to collaborate on **Ruby on Rails ,MERN Stack and Flutter**  
 - 💬 Ask me about **Ruby on Rails**.  
 - 📫 How to reach me **daniyalqureshi.cs@gmail.com**
