@@ -36,7 +36,32 @@
 
 <!-- ###### END OF HEAD ##### -->
 
+<!-- ###### Open Source Contributions ##### -->
 
+<h4 align="center">
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="30" height="30" align="center"> Open Source Contributions <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="30" height="30" align="center">
+</h4>
+
+<p align="center">
+  <strong>Validator.js</strong> - Popular string validation library with 21k+ stars
+</p>
+
+<div align="center">
+  <a href="https://github.com/validatorjs/validator.js/pull/2291">
+    <img src="https://img.shields.io/badge/PR-2291-2962FF?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://github.com/validatorjs/validator.js/pull/2416">
+    <img src="https://img.shields.io/badge/PR-2416-2962FF?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</div>
+
+<p align="center">
+  <i>Contributed to validator.js by implementing new validation methods and fixing bugs</i>
+</p>
+
+<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
+
+<!-- ###### END OF Open Source Contributions ##### -->
 
 
 <!-- ###### Languages | Tools ##### -->
